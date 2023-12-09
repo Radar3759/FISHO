@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FISHO!</title>
+    <link rel = 'stylesheet' href='style.css'>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class='container'>
+    <div class="box box-1">
+        <img src="Fisho_Logo.png" class="logo">
+    </div>    
+    <div class="box box-2"><div class="column">
+        <input id="js-draw" type="button" value=" Draw FISHO Word" autofocus>
+    
+    </div>
+</div>
+    <div class="box box-3">
+        <div class ='row'>
+            <div class="column small-12 medium-7">
+                <div class="row">
+                    <div class="column">
+                        <h2 class="current">Current FISHO Word: </h2>
+                        <span id="js-last-word" class="last-word">Click Button to Start</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>        
+    <div class="box box-4">
+        <div class="row">
+            <div class="column">
+                <h2 class="history">FISHO History</h2>
+                <ol id="js-history" class="list-fisho"></ol>
+            </div>
+        </div>
+    </div>
+    <div class="box box-5">
+        <div>
+            <h4>WARNING: Pressing 'RESET' will erase ALL history from the current game.</h4>
+            <input id="js-reset" class="display-none reset" type="button" value="Reset">
+        </div>
+    </div>
+
+
+
+<script src="fisho.js"></script>
+</body>
+<footer>
+    
+</footer>
+</html>
