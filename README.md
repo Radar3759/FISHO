@@ -2,7 +2,7 @@
 
 It's like BINGO, only with aquarium fish and plant words substituted for a letter/number combination.
 
-##Description
+## Description
 
  HTML/CSS/JS 
 
@@ -48,6 +48,7 @@ Inspiration, code snippets, etc.
 
 ## ToDo
 * Make Reset Button Work
+* Fix border issue with draw button
 * Finalize scroll bar styling
 * Add Santa Hat to logo
 * Add 'snow' Button and having onscreen 'snow'
