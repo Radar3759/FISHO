@@ -1,27 +1,22 @@
 # FISHO
 
-It's like BINGO, only with aquarium fish and plant words substituted for a letter/number combination
+It's like BINGO, only with aquarium fish and plant words substituted for a letter/number combination.
 
 ##Description
 
- Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+ HTML/CSS/JS 
 
-##Getting Started
+<!-- ##Getting Started
 ### Installing
 
 * How/where to download your program
-* Any modifications needed to be made to files/folders
+* Any modifications needed to be made to files/folders -->
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Click the "Draw FISHO Word" button to begin
 
-## Help
+<!-- ## Help
 
 Any advise for common problems or issues.
 ```
@@ -32,8 +27,6 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
@@ -45,10 +38,16 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details -->
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
 * Dominique Pizzie [@DomPizzie](https://twitter.com/dompizzie) - ty for the lovely README template!
 * 
+
+## ToDo
+* Make Reset Button Work
+* Finalize scroll bar styling
+* Add Santa Hat to logo
+* Add 'snow' Button and having onscreen 'snow'
