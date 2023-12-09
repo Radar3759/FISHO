@@ -9,13 +9,13 @@
 }
 
 ::-webkit-scollbar-track {
-    background: hsla( 125, 99%, 60%, 1);
+    /* background: hsla( 125, 99%, 60%, 1); */
 
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #b6b6b6;
-    border-radius: 2em;
+    /* background: #b6b6b6;
+    border-radius: 2em; */
 }
 
 
@@ -25,15 +25,22 @@ body {
     margin: 50px;
 }
 
-
 input[type="button"] {
-background-color: rgb(63, 224, 255);
-/* color: #000000; */
-font-weight: 900;
-font-size: 14pt;
-padding: 10px 10px;
-border-radius: 10px;
-border: solid rgb(63, 224, 255);
+
+    border-radius: 10px;
+    font-weight: 900;
+    font-size: 14pt;
+    padding: 10px 10px;
+
+}
+
+input[type="button"].draw {
+    background-color: rgb(63, 224, 255);
+    border: 2px solid rgb(63, 224, 255);
+    font-weight: 900;
+    font-size: 14pt;
+    padding: 10px 10px;
+
 }
 
 span.last-word {
