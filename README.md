@@ -48,6 +48,8 @@ Inspiration, code snippets, etc.
 
 ## ToDo
 * Make Reset Button Work
+* Scalability!
+* Decide on a bg color for the current word box
 * Fix border issue with draw button
 * Finalize scroll bar styling
 * Add Santa Hat to logo
